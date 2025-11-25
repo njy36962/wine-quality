@@ -6,4 +6,4 @@ altair
 matplotlib
 scikit-learn
 xgboost
-ucirepo
+ucimlrepo
